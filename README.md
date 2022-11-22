@@ -47,5 +47,5 @@ To answer these questions using Python, you will need to write a Python script. 
     chicago.csv
     new_york_city.csv
     washington.csv
-
-You could find them compressed in zip format. Please unzip them before using them
+    
+    You could find them compressed in zip format. Please unzip them before using them
