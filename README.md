@@ -1,7 +1,7 @@
 # Explore-Bike-Share-Data
 In this project, you will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 
-#The Datasets
+# The Datasets
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
 Start Time (e.g., 2017-01-01 00:07:57)
@@ -14,7 +14,7 @@ The Chicago and New York City files also have the following two columns:
     Gender
     Birth Year
 
-#Statistics Computed
+# Statistics Computed
 You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
 
 #1 Popular times of travel (i.e., occurs most often in the start time)
